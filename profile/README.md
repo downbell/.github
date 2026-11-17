@@ -1,5 +1,7 @@
 # Downbell
 
+[![Status](https://downbell.app/s/downbell/badge.svg)](https://downbell.app/s/downbell) [![Uptime](https://downbell.app/s/downbell/badge.svg?style=uptime)](https://downbell.app/s/downbell)
+
 **Uptime monitoring that rings your phone the moment a site goes down.**
 
 [Downbell](https://downbell.app) checks your websites, APIs and cron jobs from three regions (North America, Europe, Asia) and alerts you only when two agree something is wrong.
@@ -16,6 +18,8 @@
 
 ## Free tools
 
+- [Is it down? Live status of popular services](https://downbell.app/status)
+- [Cron expression explainer](https://downbell.app/tools/cron-expression-explainer)
 - [Is it down? Website checker](https://downbell.app/tools/website-down-checker)
 - [SSL certificate checker](https://downbell.app/tools/ssl-certificate-checker)
 - [Domain expiry checker](https://downbell.app/tools/domain-expiry-checker)
