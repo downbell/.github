@@ -1,6 +1,6 @@
 # Downbell
 
-[![Status](https://downbell.app/s/downbell/badge.svg)](https://downbell.app/s/downbell) [![Uptime](https://downbell.app/s/downbell/badge.svg?style=uptime)](https://downbell.app/s/downbell)
+[![Status](https://downbell.app/s/downbell/badge.svg)](https://status.downbell.app) [![Uptime](https://downbell.app/s/downbell/badge.svg?style=uptime)](https://status.downbell.app)
 
 **Uptime monitoring that rings your phone the moment a site goes down.**
 
